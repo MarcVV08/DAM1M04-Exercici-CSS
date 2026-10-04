@@ -48,6 +48,10 @@
     margin-left: 25%;
 }
 
+.img_projectes5{
+    margin-left: 20%;
+}
+
 .habilitats::before{
     content: "👇";
     margin-left: 5%;
@@ -96,4 +100,14 @@
 
 .llenguatges li:last-child{
     color: #6e6e6e;
+}
+
+.pas_pas::before{
+    content: "👇";
+    margin-left: 40%;
+}
+
+.pas_pas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(69, 190, 193)
 }
