@@ -17,6 +17,7 @@
     color: blue;
     font-size: 45px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
 }
 
 .subtitol{
@@ -31,10 +32,20 @@
     color: purple;
     font-weight: 900;
     text-align: center;
+    font-weight: bold;
 }
 
 .imatge{
     border: 4px solid fuchsia;
+    margin-left: 35%;
+}
+
+.imatge_container{
+    background-color: rgb(86, 86, 86);
+}
+
+.imatge_estudis{
+    margin-left: 25%;
 }
 
 .habilitats::before{
@@ -72,11 +83,11 @@
 }
 
 .llistes li:first-child{
-    color: purple;
+    color: rgb(0, 0, 128);
 }    
     
 .llistes li:last-child{
-        color: aqua;
+        color: rgb(255, 13, 0);
 }
 
 .llenguatges li:first-child{
