@@ -63,3 +63,26 @@
     color: #ff01ea;
 }
 
+.estudis li:first-child{
+    color: #f6a558;
+}
+
+.estudis li:last-child{
+    color: #3a5740;
+}
+
+.llistes li:first-child{
+    color: purple;
+}    
+    
+.llistes li:last-child{
+        color: aqua;
+}
+
+.llenguatges li:first-child{
+    color: #aaf7e0;
+}
+
+.llenguatges li:last-child{
+    color: #6e6e6e;
+}
